@@ -1,0 +1,11 @@
+body{
+	/* lavender background with a rounded solid border of a darker shade */
+	background-color: #e6e6fa;
+	padding: 25px;
+	border-style: solid;
+	border-color: #a6a6ed;
+	border-radius: 30px;
+}
+img{
+	border-radius: 30px;
+}
